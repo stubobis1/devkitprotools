@@ -6,4 +6,4 @@ pwd-dos(){
 }
 
 
-cmd.exe /k "\$CMD_YUZU_PATH $(pwd-dos)\\$BUILD_NAME 2> NUL & exit"
+cmd.exe /k "$CMD_YUZU_PATH $(pwd-dos)\\$BUILD_NAME 2> NUL & exit"
