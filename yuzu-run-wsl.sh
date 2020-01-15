@@ -1,3 +1,4 @@
+#!/bin/bash
 CMD_YUZU_PATH='C:\Users\StuBob\AppData\Local\yuzu\yuzu-windows-msvc\yuzu-cmd.exe'
 BUILD_NAME='app.nro'
 
