@@ -1,2 +1,2 @@
 # devkitprotools
-tools for learning dkp
+tools for developing with dkp using docker, WSL, and yuzu
